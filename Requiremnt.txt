@@ -23,7 +23,6 @@ pyarrow==20.0.0
 pydeck==0.9.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
-qrcode
 qrcode[pil]==8.2
 referencing==0.36.2
 requests==2.32.3
